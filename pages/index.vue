@@ -96,12 +96,12 @@ const prefillDemoData = () => {
     l: "https://www.linkedin.com/kingcharles",
     ls: [
       {
-        l: "my meow-gical Blog",
+        l: "my meow-gical blog",
         i: "ph:globe-duotone",
         u: "https://charlie_whiskers.blogspot.com",
       },
       {
-        l: "my amazon wishlist (catnip required)",
+        l: "charlie's amazon wishlist (catnip required)",
         i: "ant-design:amazon-outlined",
         u: "https://amzn.to/CatnipForCharlie",
       },
@@ -116,7 +116,7 @@ const prefillDemoData = () => {
         u: "https://pawsafe.org/",
       },
       {
-        l: "my resume (don't Judge, i'm literally a cat)",
+        l: "my resume (don't judge, i'm literally a cat)",
         i: "ph:file-pdf",
         u: "https://www.kingcharles.com/resume",
       },
