@@ -2,7 +2,7 @@
   <base-form-section title="Links" description="Add some links here">
     <template #helpertext>
       <p class="mt-1 text-xs text-gray-600">
-        Icon keys can be found in
+        Icon keys: (fix for prod!)
         <a class="underline" href="https://icones.js.org/"
           >https://icones.js.org/</a
         >.
