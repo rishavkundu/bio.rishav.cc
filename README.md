@@ -1,6 +1,5 @@
-bio.rishavkundu.com
+# bio.rishavkundu.com
 
-# Query String Persistence
 
 ## Overview
 
