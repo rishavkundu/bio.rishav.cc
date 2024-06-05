@@ -71,7 +71,7 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "Sir Charlie 'Eleanor' Whiskers",
+    n: "Sir King Charles",
     d: "A distinguished feline of leisure, with a penchant for fine cheeses and solving mysteries.  Those whiskers might be fluffy, but this cat's mind is sharp as his claws.",
     i: "https://plain.rishavkundu.com/data/img/charlie.png",
     f: "https://www.facebook.com/SirCharlie",
