@@ -38,14 +38,6 @@
           <span> Publish </span>
           <icon name="ph:paper-plane-tilt-bold" class="h-4 w-4" />
         </button>
-        <a
-          href="https://rishavkundu.com"
-          target="_blank"
-          class="h-12 flex items-center space-x-2 px-4 border-r text-xs font-medium bg-white text-slate-700"
-        >
-          <span> Github </span>
-          <icon name="mdi:github" class="h-4 w-4" />
-        </a>
       </div>
     </div>
     <app-form-preview :data="data" />
