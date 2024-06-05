@@ -38,7 +38,7 @@
           <icon name="ph:paper-plane-tilt-bold" class="h-4 w-4" />
         </button>
         <a
-          href="https://github.com/fayazara/onelink"
+          href="https://rishavkundu.com"
           target="_blank"
           class="h-12 flex items-center space-x-2 px-4 border-r text-xs font-medium bg-white text-slate-700"
         >
@@ -49,11 +49,11 @@
     </div>
     <app-form-preview :data="data" />
     <a
-      href="https://twitter.com/fayazara"
+      href="https://twitter.com/rishavvk"
       target="_blank"
       class="absolute bottom-0 right-0 bg-white rounded-tl-lg shadow px-4 py-1 font-medium text-sm text-gray-500"
     >
-      Made by Fayaz
+      Made by Rishav
     </a>
   </div>
 </template>
@@ -78,43 +78,43 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
-    i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
-    t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
-    tg: "https://t.me/john_snow",
-    w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    n: "Sir Charlie 'Eleanor' Whiskers",
+    d: "A distinguished feline of leisure, with a penchant for fine cheeses and solving mysteries.  Those whiskers might be fluffy, but this cat's mind is sharp as his claws.",
+    i: "https://images.unsplash.com/photo-1543466835-00a7904e90c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80", //  (Replace with a fun cat picture!)
+    f: "https://www.facebook.com/SirCharlie",
+    t: "https://twitter.com/kingcharles",
+    ig: "https://www.instagram.com/kingcharles",
+    e: "ckingcharlie@purrfectmail.com",
+    gh: "https://github.com/rishavkundu",
+    tg: "https://t.me/CharlieTheCat",
+    w: "+1 (555) BIG-MEOW",
+    y: "https://youtube.com/channel/kingcharles",
+    l: "https://www.linkedin.com/kingcharles",
     ls: [
       {
-        l: "My Website",
+        l: "My Meow-gical Blog",
         i: "ph:globe-duotone",
-        u: "https://example.com",
+        u: "https://charlie_whiskers.blogspot.com",
       },
       {
-        l: "Amazon wishlist",
+        l: "My Amazon Wishlist (Catnip Required)",
         i: "ant-design:amazon-outlined",
-        u: "https://amazon.in",
+        u: "https://amzn.to/CatnipForCharlie",
       },
       {
-        l: "React JS course",
-        i: "grommet-icons:reactjs",
-        u: "https://reactjs.org/",
+        l: "My Guide to Being a Purrfectly Lazy Cat",
+        i: "ph:book-open",
+        u: "https://www.kingcharles.com/lazinessguide",
       },
       {
-        l: "Donate for our cause",
+        l: "Donate to the Cat Shelter (They Need Help!)",
         i: "iconoir:donate",
-        u: "https://who.int",
+        u: "https://www.localcatshelter.org",
       },
       {
-        l: "Download my resume",
+        l: "My Resume (Don't Judge, I'm a Cat)",
         i: "ph:file-pdf",
-        u: "https://google.com",
+        u: "https://www.kingcharles.com/resume",
       },
     ],
   };
