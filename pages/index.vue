@@ -42,11 +42,11 @@
     </div>
     <app-form-preview :data="data" />
     <a
-      href="https://twitter.com/rishavvk"
+      href="https://rishavkundu.com"
       target="_blank"
       class="absolute bottom-0 right-0 bg-white rounded-tl-lg shadow px-4 py-1 font-medium text-sm text-gray-500"
     >
-      Made by Rishav
+      Built by Rishav Kundu
     </a>
   </div>
 </template>
