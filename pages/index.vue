@@ -73,7 +73,7 @@ const prefillDemoData = () => {
   data.value = {
     n: "Sir Charlie 'Eleanor' Whiskers",
     d: "A distinguished feline of leisure, with a penchant for fine cheeses and solving mysteries.  Those whiskers might be fluffy, but this cat's mind is sharp as his claws.",
-    i: "https://images.unsplash.com/photo-1543466835-00a7904e90c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80", //  (Replace with a fun cat picture!)
+    i: "https://plain.rishavkundu.com/data/img/charlie.png",
     f: "https://www.facebook.com/SirCharlie",
     t: "https://twitter.com/kingcharles",
     ig: "https://www.instagram.com/kingcharles",
