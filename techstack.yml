@@ -1,0 +1,107 @@
+repo_name: rishavkundu/bio.rishav.cc
+report_id: 56c278da0464cb9c590139e3770c4680
+version: 0.1
+repo_type: Public
+timestamp: '2024-08-01T15:46:37+00:00'
+requested_by: rishavkundu
+provider: github
+branch: main
+detected_tools_count: 8
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc
+  detection_source: Repo Metadata
+- name: Nuxt.js
+  description: The Vue.js Framework
+  website_url: https://nuxtjs.org
+  version: 3.1.1
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/7304/23360933.png
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: rishavkundu
+  last_updated_on: 2024-06-05 17:09:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: rishavkundu
+  last_updated_on: 2024-06-05 17:09:48.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: rishavkundu
+  last_updated_on: 2024-06-05 17:09:48.000000000 Z
+- name: js-base64
+  description: Yet another Base64 transcoder in pure-JS
+  package_url: https://www.npmjs.com/js-base64
+  version: 3.7.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16984/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: rishavkundu
+  last_updated_on: 2024-06-05 17:09:48.000000000 Z
+- name: vuedraggable
+  description: Draggable component for vue
+  package_url: https://www.npmjs.com/vuedraggable
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17468/default_911633508f32a5d5016c37ab38144cd661ceb682.png
+  detection_source_url: https://github.com/rishavkundu/bio.rishav.cc/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: rishavkundu
+  last_updated_on: 2024-06-05 17:09:48.000000000 Z
